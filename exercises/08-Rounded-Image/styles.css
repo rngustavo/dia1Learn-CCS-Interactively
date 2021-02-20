@@ -3,6 +3,8 @@ body {
 }
 .rounded {
 	border-radius: 100%;
-	object-fit: cover;
-	/*object-position: 50% 50%;*/
+   /* object-fit: cover;*/
+    object-fit: contain;
+    /*object-position: 50% 50%;*/
+    /*No lo logre hacer funcionar*/
 }
