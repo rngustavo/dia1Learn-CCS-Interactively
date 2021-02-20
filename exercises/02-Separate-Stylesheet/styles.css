@@ -1,4 +1,10 @@
 /* your styles here:
     1. Select the body tag.
     2. Add the background rule equal to blue.
+    
  */
+
+body {
+	color: white;
+	background-color: blue;
+}
